@@ -25,5 +25,5 @@ int main()
   printf("Doble con precisión: %5.2f \n", doble);
   printf("Carácter como entero: %d \n", caracter);
 
-}
   return 0;
+}
